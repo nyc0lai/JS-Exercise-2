@@ -2,7 +2,7 @@ const myAge = 38; //assigns a value to myAge variable
 
 let earlyYears = 2; // we declare and assign to earlyYears variable value 2
 
-earlyYears *= 10.5; // converting to dog years 
+earlyYears *= 10.5; // converting into dog years 
 
 let laterYears = myAge - 2; // we declare and assign to laterYears varable  a value (subtract from myAge 2)
 
