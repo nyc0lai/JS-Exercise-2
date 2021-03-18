@@ -6,7 +6,7 @@ earlyYears *= 10.5; // converting into dog years
 
 let laterYears = myAge - 2; // we declare and assign to laterYears varable  a value (subtract from myAge 2)
 
-laterYears *= 4 ; // converting in a dog years
+laterYears *= 4 ; // converting into dog years
 
 let myAgeInDogYears = earlyYears + laterYears; // we declare and assign  to myAgeInDogYears variable a value (calculate my age in a dog years)
 
